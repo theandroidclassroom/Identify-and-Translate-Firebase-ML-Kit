@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "805326827174",
+    "firebase_url": "https://ml-kit-bb8d0.firebaseio.com",
+    "project_id": "ml-kit-bb8d0",
+    "storage_bucket": "ml-kit-bb8d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805326827174:android:303c8b2718d2208da68e67",
+        "android_client_info": {
+          "package_name": "com.tac.chatsuggestions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805326827174-31i5sc4vagm2360apdpia8lc47ltgmqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjc4oi17--kxUPE2E5klvfzyCBNwNh6Nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805326827174-31i5sc4vagm2360apdpia8lc47ltgmqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805326827174:android:892dfb05e1d64f8ea68e67",
+        "android_client_info": {
+          "package_name": "com.tac.mlkitchatsuggestions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805326827174-31i5sc4vagm2360apdpia8lc47ltgmqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjc4oi17--kxUPE2E5klvfzyCBNwNh6Nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805326827174-31i5sc4vagm2360apdpia8lc47ltgmqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805326827174:android:aece17ba3ab19114a68e67",
+        "android_client_info": {
+          "package_name": "com.tac.translatetext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805326827174-31i5sc4vagm2360apdpia8lc47ltgmqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjc4oi17--kxUPE2E5klvfzyCBNwNh6Nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805326827174-31i5sc4vagm2360apdpia8lc47ltgmqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
